@@ -1,0 +1,9 @@
+{
+  "name": "signfab-studios",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "configure": "node scripts/configure.mjs"
+  }
+}
